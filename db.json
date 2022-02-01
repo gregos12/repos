@@ -59,7 +59,7 @@
             },
             {
                 "id": 3,
-                "icon": "icons icon-drawer text-effect",
+                "icon": "icons icon-link text-effect",
                 "title": "Create your collection",
                 "text": "You have an idea, a unique product, you are a brand, let's successfully create your unique drops together"
             },
@@ -95,8 +95,8 @@
             },
             {
                 "id": 4,
-                "link": "vine",
-                "icon": "fab fa-vine"
+                "link": "instagram",
+                "icon": "fab fa-intagram"
             }
         ],
         "widgetData_1": [
