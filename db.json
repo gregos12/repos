@@ -110,7 +110,7 @@
             },
             {
                 "id": 3,
-                "text": "Create"
+                "text": "Collab"
             },
             {
                 "id": 4,
@@ -127,16 +127,12 @@
                 "text": "Help Center"
             },
             {
-                "id": 2,
-                "text": "Partners"
-            },
-            {
                 "id": 3,
                 "text": "Suggestions"
             },
             {
                 "id": 4,
-                "text": "Blog"
+                "text": "About us"
             },
             {
                 "id": 5,
