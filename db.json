@@ -43,31 +43,31 @@
     },
     "work": {
         "preHeading": "How It Works",
-        "heading": "Collect and sell your NFTs unique",
+        "heading": "Collect and sell your unique NFTs",
         "workData": [
             {
                 "id": 1,
                 "icon": "icons icon-wallet text-effect",
-                "title": "Set gg your wallet",
-                "text": "Once you’ve set up your wallet of choice, connect it to OpenSea by clicking the NFT Marketplace in the top right corner. Learn about the wallets we support."
+                "title": "Set up your wallet",
+                "text": "Once you’ve set up your wallet of choice, connect it to OpenRare by clicking the NFT Marketplace in the top right corner. Learn about the wallets we support."
             },
             {
                 "id": 2,
-                "icon": "icons icon-grid text-effect",
-                "title": "Create your collection",
-                "text": "Click Create and set up your collection. Add social links, a description, profile & banner images, and set a secondary sales fee."
+                "icon": "icons icon-rocket text-effect",
+                "title": "Start your collection",
+                "text": "Take advantage of the best collaborations in the world with unique drops to expand your NFTS collection, subscribe to the new letter so you don't miss out on future sales"
             },
             {
                 "id": 3,
                 "icon": "icons icon-drawer text-effect",
-                "title": "Add your NFTs",
-                "text": "Upload your work (image, video, audio, or 3D art), add a title and description, and customize your NFTs with properties, stats, and unlockable content."
+                "title": "Create your collection",
+                "text": "You have an idea, a unique product, you are a brand, let's successfully create your unique drops together"
             },
             {
                 "id": 4,
                 "icon": "icons icon-bag text-effect",
-                "title": "List them for sale",
-                "text": "Choose between auctions, fixed-price listings, and declining-price listings. You choose how you want to sell your NFTs!"
+                "title": "Easy to sell",
+                "text": "Choose between auctions, fixed price ads, and volume discount ads. You choose how you want to sell your NFTs"
             }
         ]
     },
