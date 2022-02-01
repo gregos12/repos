@@ -41,69 +41,6 @@
             }
         ]
     },
-    "collections": {
-        "preHeading": "Most Popular",
-        "heading": "Popular Collections",
-        "btnText": "Explore More",
-        "collectionData": [
-            {
-                "id": 1,
-                "img": "/img/author_1.jpg",
-                "avatar": "/img/avatar_1.jpg",
-                "title": "Virtual Worlds",
-                "content": "ERC-729"
-            },
-            {
-                "id": 2,
-                "img": "/img/author_2.jpg",
-                "avatar": "/img/avatar_2.jpg",
-                "title": "Digital Arts",
-                "content": "ERC-522"
-            },
-            {
-                "id": 3,
-                "img": "/img/author_3.jpg",
-                "avatar": "/img/avatar_3.jpg",
-                "title": "Sports",
-                "content": "ERC-495"
-            },
-            {
-                "id": 4,
-                "img": "/img/author_4.jpg",
-                "avatar": "/img/avatar_4.jpg",
-                "title": "Photography",
-                "content": "ERC-873"
-            },
-            {
-                "id": 5,
-                "img": "/img/author_5.jpg",
-                "avatar": "/img/avatar_5.jpg",
-                "title": "Trading Cards",
-                "content": "ERC-397"
-            },
-            {
-                "id": 6,
-                "img": "/img/author_6.jpg",
-                "avatar": "/img/avatar_6.jpg",
-                "title": "Walking On Air",
-                "content": "ERC-403"
-            },
-            {
-                "id": 7,
-                "img": "/img/author_7.jpg",
-                "avatar": "/img/avatar_7.jpg",
-                "title": "Domain Names",
-                "content": "ERC-687"
-            },
-            {
-                "id": 8,
-                "img": "/img/author_8.jpg",
-                "avatar": "/img/avatar_8.jpg",
-                "title": "Collectibles",
-                "content": "ERC-972"
-            }
-        ]
-    },
     "work": {
         "preHeading": "How It Works",
         "heading": "Collect and sell your NFTs unique",
